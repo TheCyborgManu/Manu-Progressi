@@ -1,4 +1,10 @@
 # Manu-Progressi
+## Urgenze Prossimi 30 Giorni (entro 11 marzo)
+1. TIM arretrato 74,44 € → pagare entro 1 settimana (chiama per proroga se serve)
+2. Dentista (IL POLO) 180 € → entro 15 marzo
+3. Motorino 100 € → entro 15 marzo
+4. Bolletta luce cascina 300 € → ultima rata, urgente (chiama per rateizzare ulteriormente?)
+5. Obiettivo vendita oggetti: sdraio + Xbox → 100–200 € entro fine mese
 ## Stato Attuale (aggiornato: 11 feb 2026)
 - Soldi in tasca: 313 € (dopo ufficio)
 - Entrata attesa: disoccupazione 10-15 mar (~800-900 € stimati)
