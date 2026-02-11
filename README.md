@@ -1,28 +1,37 @@
 # Manu-Progressi
-## Urgenze Prossimi 30 Giorni (entro 11 marzo)
-1. TIM arretrato 74,44 € → pagare entro 1 settimana (chiama per proroga se serve)
-2. Dentista (IL POLO) 180 € → entro 15 marzo
-3. Motorino 100 € → entro 15 marzo
-4. Bolletta luce cascina 300 € → ultima rata, urgente (chiama per rateizzare ulteriormente?)
-5. Obiettivo vendita oggetti: sdraio + Xbox → 100–200 € entro fine mese
-## Stato Attuale (aggiornato: 11 feb 2026)
-- Soldi in tasca: 313 € (dopo ufficio)
-- Entrata attesa: disoccupazione 10-15 mar (~800-900 € stimati)
-- Urgenze entro 7 giorni: bolletta cascina 300 € (ultima rata), TIM 70 €
-- Sensazione oggi: leggero dopo passeggiata, carico per produrre
+
 ## Azioni Urgenti (entro 15 feb)
 - Chiamare fornitore luce cascina per rateizzazione 300 €
 - Mettere in vendita sdraio + Xbox (obiettivo 50-100 €)
 - 1 candidatura al giorno lavoro
 - Passeggiata/allenamento mattutino (priorità corpo)
 
-## Priorità Prossimi 7 Giorni (entro 18 feb)
-1. Pagare TIM arretrato 74,44 € (prima possibile – chiama e chiedi proroga se serve)
-2. Mettere in vendita sdraio + Xbox (obiettivo 100–200 € entro fine mese)
-3. 1 candidatura lavoro al giorno (Manpower, Attal Group, Indeed, ecc.)
-4. Passeggiata/allenamento mattutino (priorità corpo – 20–30 min)
-5. Chiamare fornitore luce cascina (se non fatto) per rateizzazione 300 €
-6. Monitorare disoccupazione attesa 10-15 feb (~800–900 €)
+## Stato Attuale (11 feb 2026 – sera)
+- Soldi in tasca: 313 € (dopo disoccupazione +100 € oggi)
+- Prossima entrata attesa: disoccupazione ~10 marzo (stima 600–800 €, prepariamoci al peggio)
+- Spesa settimanale essenziale: 15–20 € cibo + 10 € tabacco = ~25–30 €
+- Macchina: batteria a terra, provo a caricare per colloquio domani. Se parte → vendo motorino. Se non parte → vendo macchina.
+
+## Urgenze Prossimi 30 Giorni (entro 11 marzo)
+1. TIM arretrato 74,44 € (36,85 + 37,59) → entro 1 settimana (chiama per proroga se serve)
+2. Dentista (IL POLO) 180 € → entro 15 marzo
+3. Motorino 100 € → entro 15 marzo
+4. Bolletta luce cascina 300 € → urgente (ultima rata, chiama per rateizzare ulteriormente?)
+5. Colloquio domani → preparati (macchina carica? vestiti ok? CV pronto?)
+6. Obiettivo vendita oggetti: sdraio + Xbox → 100–200 € entro fine mese
+
+## Spesa Settimanale Essenziale (solo giornalieri, no scorte lunghe)
+| Categoria | Prodotto | Quantità | Costo stimato | Note |
+|-----------|----------|----------|---------------|------|
+| Cibo | Pane | 1 kg | 2–3 € | Dura 4–5 giorni |
+| Cibo | Pasta | 500g | 0.7–1 € | 2–3 pasti |
+| Cibo | Lenticchie/riso | 500g | 1–1.5 € | Dura 5–7 giorni |
+| Cibo | Pomodori pelati | 1 barattolo | 0.8–1 € | - |
+| Cibo | Uova | 6 pezzi | 1.5–2 € | Proteine economiche |
+| Cibo | Verdure surgelate | 1 kg | 2–3 € | Spinaci/carote |
+| Cibo | Frutta | 1 kg | 1.5–2.5 € | Mele/banane |
+| Extra | Tabacco | - | ~10 € | Sto facendo durare di più |
+| Totale settimanale | - | - | 15–25 € cibo + 10 € tabacco = 25–35 € | Stringere al minimo |
   
 ## Entrate
 | Data | Descrizione | Importo |
