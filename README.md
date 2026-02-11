@@ -5,6 +5,7 @@ Tracciamento progressi
 | Data | Descrizione | Importo |
 |------|-------------|---------|
 | 6 feb | Disoccupazione | 860 € |
+| 11 feb | Disoccupazione | 100 € |
 
 ## Spese Fisse
 | Scadenza | Descrizione | Importo |
@@ -22,7 +23,7 @@ Aggiorno ogni giorno o quando serve.
 ## Obiettivi Macro (priorità 2026)
 | Obiettivo | Descrizione | Scadenza stimata | Status | Note |
 |-----------|-------------|------------------|--------|------|
-| Lavoro | Pubblicare la prima app (Tease Clicker o utility) | Fine febbraio 2026 | In corso | Roadmap sotto |
+| Lavoro | Pubblicare la prima app | Fine febbraio 2026 | In corso | Roadmap sotto |
 | Fisico | Costanza allenamento minimo (passeggiata/ginnastica) | In corso quotidiano | In corso | Mattina prioritaria |
 | Casa | Vendere cascina Vercelli | Entro estate 2026 | In corso | Contattare agenzie |
 
