@@ -1,6 +1,5 @@
 # Manu-Progressi
 Tracciamento progressi
-# Manu-Progressi
 
 ## Entrate
 | Data | Descrizione | Importo |
