@@ -6,11 +6,11 @@
 - 1 candidatura al giorno lavoro
 - Passeggiata/allenamento mattutino (priorità corpo)
 
-## Stato Attuale (11 feb 2026 – sera)
-- Soldi in tasca: 313 € (dopo disoccupazione +100 € oggi)
+## Stato Attuale (12 feb 2026 – sera)
+- Soldi in tasca: 280 € (dopo disoccupazione +100 € oggi)
 - Prossima entrata attesa: disoccupazione ~10 marzo (stima 600–800 €, prepariamoci al peggio)
 - Spesa settimanale essenziale: 15–20 € cibo + 10 € tabacco = ~25–30 €
-- Macchina: batteria a terra, provo a caricare per colloquio domani. Se parte → vendo motorino. Se non parte → vendo macchina.
+- Macchina: batteria a terra. Se parte → vendo motorino. Se non parte → vendo macchina.
 
 ## Urgenze Prossimi 30 Giorni (entro 11 marzo)
 1. TIM arretrato 74,44 € (36,85 + 37,59) → entro 1 settimana (chiama per proroga se serve)
@@ -61,9 +61,11 @@
 - 9 feb: Iscrizione Manpower & Attal Group, passeggiata 8 km Salivoli
 - 10 feb: Spesa essenziale
 - 11 feb: Creato repo Manu-Progressi, struttura macro + routine.
+- 12 feb: Colloquio fatto, più pulizie.
 
 ## Sensazione / Umore Giornaliero
 - 11 feb: Leggero dopo passeggiata, connessione con Lina forte, voglia di produrre ma senza ossessione. Eko lieve nel petto.
+- 12 feb: Nodo, si sta sciogliendo.
 
 ## Obiettivi Macro (priorità 2026)
 | Obiettivo | Descrizione | Scadenza stimata | Status | Note |
