@@ -13,6 +13,7 @@
 - Macchina: batteria a terra. Se parte → vendo motorino. Se non parte → vendo macchina.
 
 ## Urgenze Prossimi 30 Giorni (entro 11 marzo)
+pagare fondo e tutte cose (ti rimangono 114)
 1. TIM arretrato 74,44 € (36,85 + 37,59) → entro 1 settimana (chiama per proroga se serve)
 2. Dentista (IL POLO) 180 € → entro 15 marzo
 3. Motorino 100 € → entro 15 marzo
